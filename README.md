@@ -1,2 +1,2 @@
 # bonjour-monde
-Mon premier repository pour tester, voir, apprendre. 🍺
+Mon premier repository pour tester, voir, apprendre. 🍻
